@@ -1,0 +1,10 @@
+[
+  {
+    "id": "initial-token",
+    "mode": "Default",
+    "name": "new-variable",
+    "type": "color",
+    "value": "#000000",
+    "collection": "Brand"
+  }
+]

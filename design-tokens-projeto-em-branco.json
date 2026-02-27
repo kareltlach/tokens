@@ -1,0 +1,130 @@
+[
+  {
+    "id": "manual_nd8gwstbm",
+    "mode": "EX",
+    "name": "new-variable",
+    "type": "color",
+    "value": "#000000",
+    "collection": "Typography"
+  },
+  {
+    "id": "manual_73v4pta3p",
+    "mode": "EX",
+    "name": "Title/size-1",
+    "type": "number",
+    "value": 8,
+    "collection": "Dimensions"
+  },
+  {
+    "id": "manual_uu6ruz4ka",
+    "mode": "PF",
+    "name": "Title/size-1",
+    "type": "number",
+    "value": 4,
+    "collection": "Dimensions"
+  },
+  {
+    "id": "manual_7xtt8091k",
+    "mode": "CB",
+    "name": "Title/size-1",
+    "type": "number",
+    "value": 2,
+    "collection": "Dimensions"
+  },
+  {
+    "id": "manual_0jrgq7kpu",
+    "mode": "CB",
+    "name": "Green/green-100",
+    "type": "color",
+    "value": "#9dd959",
+    "collection": "Color"
+  },
+  {
+    "id": "manual_efcdym3fd",
+    "mode": "CB",
+    "name": "Blue/blue-100",
+    "type": "color",
+    "value": "#18c1ff",
+    "collection": "Color"
+  },
+  {
+    "id": "initial-token",
+    "mode": "CB",
+    "name": "primary",
+    "type": "color",
+    "value": "#122da8",
+    "collection": "Brand"
+  },
+  {
+    "id": "manual_x53qz7u45",
+    "mode": "PF",
+    "name": "Green/green-100",
+    "type": "color",
+    "value": "#21e610",
+    "collection": "Color"
+  },
+  {
+    "id": "manual_fobap8ki4",
+    "mode": "PF",
+    "name": "Blue/blue-100",
+    "type": "color",
+    "value": "#006798",
+    "collection": "Color"
+  },
+  {
+    "id": "manual_mybc90svx",
+    "mode": "PF",
+    "name": "primary",
+    "type": "color",
+    "value": "#d87e14",
+    "collection": "Brand"
+  },
+  {
+    "id": "manual_e6oz3q4sh",
+    "mode": "EX",
+    "name": "Green/green-100",
+    "type": "color",
+    "value": "#1fdb6d",
+    "collection": "Color"
+  },
+  {
+    "id": "manual_e04ov0c3k",
+    "mode": "EX",
+    "name": "Blue/blue-100",
+    "type": "color",
+    "value": "#087ea3",
+    "collection": "Color"
+  },
+  {
+    "id": "manual_xth8hk3b0",
+    "mode": "EX",
+    "name": "primary",
+    "type": "color",
+    "value": "#b81414",
+    "collection": "Brand"
+  },
+  {
+    "id": "manual_x3wvi1pn8",
+    "mode": "EX",
+    "name": "Title/size-2",
+    "type": "number",
+    "value": 16,
+    "collection": "Dimensions"
+  },
+  {
+    "id": "manual_ebq3mhezc",
+    "mode": "PF",
+    "name": "Title/size-2",
+    "type": "number",
+    "value": 20,
+    "collection": "Dimensions"
+  },
+  {
+    "id": "manual_8mwa73uuo",
+    "mode": "CB",
+    "name": "Title/size-2",
+    "type": "number",
+    "value": 24,
+    "collection": "Dimensions"
+  }
+]

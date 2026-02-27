@@ -1,0 +1,48 @@
+[
+  {
+    "id": "VariableCollectionId:116:598",
+    "name": "Collection 1",
+    "modes": [
+      {
+        "name": "lumina-tokens-figma-dtcg",
+        "modeId": "116:4"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:116:599",
+        "name": "Figma Styles/Style/Grid",
+        "type": "STRING",
+        "values": {
+          "116:4": "Grid: COLUMNS (8.333333015441895px)"
+        }
+      },
+      {
+        "id": "VariableID:116:600",
+        "name": "Figma Styles/Style/primary",
+        "type": "COLOR",
+        "values": {
+          "116:4": {
+            "r": 0.925000011920929,
+            "g": 0.10999999940395355,
+            "b": 0.10999999940395355,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:116:601",
+        "name": "Figma Styles/Style/secondary",
+        "type": "COLOR",
+        "values": {
+          "116:4": {
+            "r": 0.25099998712539673,
+            "g": 0.47099998593330383,
+            "b": 0.7730000019073486,
+            "a": 1
+          }
+        }
+      }
+    ]
+  }
+]

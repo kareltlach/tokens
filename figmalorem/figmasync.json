@@ -1,0 +1,138 @@
+{
+  "tokens": [],
+  "styles": [
+    {
+      "id": "98:4_color",
+      "name": "Grid",
+      "type": "color",
+      "color": "#FFFFFF",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "98:4_grid",
+      "name": "Grid",
+      "type": "grid",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "98:3_color",
+      "name": "Drop Shadow",
+      "type": "color",
+      "color": "#D9D9D9",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "98:3_effect",
+      "name": "Drop Shadow",
+      "type": "effect",
+      "effects": "0px 4px 4px 0px rgba(0, 0, 0, 0.25)",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "105:5_color",
+      "name": "primary",
+      "type": "color",
+      "color": "#EC1C1C",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "103:5_typography",
+      "name": "Typography/H1",
+      "type": "text",
+      "fontSize": 12,
+      "collection": "Typography",
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "lineHeight": 15,
+      "modeValues": {},
+      "letterSpacing": 0
+    },
+    {
+      "id": "116:592_color",
+      "name": "secondary",
+      "type": "color",
+      "color": "#4078C5",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "116:602_color",
+      "name": "green",
+      "type": "color",
+      "color": "#70CE2D",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "119:2_typography",
+      "name": "Folder/Sub/Paragraph",
+      "type": "text",
+      "fontSize": 12,
+      "collection": "Folder",
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "lineHeight": 15,
+      "modeValues": {},
+      "letterSpacing": 0
+    },
+    {
+      "id": "120:3_color",
+      "name": "orange",
+      "type": "color",
+      "color": "#E26D19",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "123:4_color",
+      "name": "purple",
+      "type": "color",
+      "color": "#9F20CD",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "126:2_color",
+      "name": "grey",
+      "type": "color",
+      "color": "#8F8F8F",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "126:3_color",
+      "name": "black",
+      "type": "color",
+      "color": "#000000",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "126:4_color",
+      "name": "white",
+      "type": "color",
+      "color": "#FFFFFF",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    }
+  ],
+  "metadata": {
+    "exportedAt": "2026-03-01T06:21:31.499Z",
+    "version": "2.0"
+  }
+}

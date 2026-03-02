@@ -1,17 +1,45 @@
 {
-  "tokens": [
+  "tokens": [],
+  "styles": [
     {
-      "id": "initial-token",
-      "mode": "Default",
-      "name": "cor1",
+      "id": "1:2_color",
+      "name": "white",
       "type": "color",
-      "value": "#000000",
-      "collection": "Brand"
+      "color": "#FFFFFF",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "1:3_color",
+      "name": "black",
+      "type": "color",
+      "color": "#000000",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "2:2_color",
+      "name": "purple",
+      "type": "color",
+      "color": "#8411A1",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
+    },
+    {
+      "id": "2:3_color",
+      "name": "red",
+      "type": "color",
+      "color": "#C82828",
+      "collection": "General Styles",
+      "modeValues": {},
+      "description": "Opacity: 100%"
     }
   ],
-  "styles": [],
   "metadata": {
-    "exportedAt": "2026-03-02T06:19:47.471Z",
+    "exportedAt": "2026-03-02T08:28:56.553Z",
     "version": "2.0"
   }
 }

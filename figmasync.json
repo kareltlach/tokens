@@ -1,0 +1,121 @@
+{
+  "tokens": [],
+  "styles": [
+    {
+      "id": "1:2_color",
+      "name": "color1",
+      "type": "color",
+      "color": "#D9D9D9",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "1:4_color",
+      "name": "color2",
+      "type": "color",
+      "color": "#F21414",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "1:5_color",
+      "name": "color3",
+      "type": "color",
+      "color": "#14F2D4",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "1:6_color",
+      "name": "color4",
+      "type": "color",
+      "color": "#1487F2",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "2:2_color",
+      "name": "color5",
+      "type": "color",
+      "color": "#F2C514",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "2:3_color",
+      "name": "color6",
+      "type": "color",
+      "color": "#F28714",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "2:5_color",
+      "name": "color7",
+      "type": "color",
+      "color": "#8E14F2",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "2:6_color",
+      "name": "color8",
+      "type": "color",
+      "color": "#440677",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "2:7_color",
+      "name": "color9",
+      "type": "color",
+      "color": "#77066E",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "2:8_color",
+      "name": "color10",
+      "type": "color",
+      "color": "#066477",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "3:10_color",
+      "name": "color11",
+      "type": "color",
+      "color": "#067731",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "2:9_color",
+      "name": "color12",
+      "type": "color",
+      "color": "#77063D",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "4:11_color",
+      "name": "color13",
+      "type": "color",
+      "color": "#B00357",
+      "collection": "General Styles",
+      "modeValues": {}
+    },
+    {
+      "id": "4:12_color",
+      "name": "color14",
+      "type": "color",
+      "color": "#03B090",
+      "collection": "General Styles",
+      "modeValues": {}
+    }
+  ],
+  "metadata": {
+    "exportedAt": "2026-03-10T05:19:16.649Z",
+    "version": "2.0"
+  }
+}
